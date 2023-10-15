@@ -15,3 +15,8 @@
   5.Then use a while loop to display the options that the user selects correctly in case he/she does not select anything and presses enter.
   
   6.Then use the switch/case. This is in case the user chooses one of the options, the option appears and enter each case function with its inputs and outputs. Also, case 4 is the last question that the user is asked. Default is in case the user does not choose an option.
+
+  Hana Hamdan ALQasmi
+  96120452
+  hanahmadan95@gmail.com
+
